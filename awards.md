@@ -12,9 +12,9 @@ title: Awards
 - May 2023：Excellent Graduate of JMU
 - Dec 2022：National Scholarship
 - Oct 2022：Excellent Student Scholarship of JMU
-- Sep 2022：First Graduate Academic Scholarship of JMU
-- Sep 2021：Second Graduate Academic Scholarship of JMU
-- Sep 2020：Third Graduate Academic Scholarship of JMU
+- Sep 2022： Graduate Academic Scholarship of JMU
+- Sep 2021： Graduate Academic Scholarship of JMU
+- Sep 2020： Graduate Academic Scholarship of JMU
 
 ## Professional Qualifications
 
