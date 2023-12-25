@@ -4,21 +4,19 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 19th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
-## Conference Paper
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://caihanlin.com/file/404/) (Under Final Revision)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
 
 ## Journal Paper
 
-- Coming soon! 🚀
+*(Note: #First author, *Corresponding author)*
+
+- <u>**Lv, H. G.#**</u>, Li, J.#, Gao, K., Zeng, L., Xue, R., Liu, X., Zhou, C., Yue, W., Yu, H.* (2022). **Identification of genetic loci that overlap between schizophrenia and metabolic syndrome.** *Psychiatry Research*, *318*, 114947. [DOI](https://doi.org/10.1016/j.psychres.2022.114947) [PMID](https://pubmed.ncbi.nlm.nih.gov/36399892/)
+
+- Chen, G.#, <u>**Lv, H. G.#**</u>, Zhang, X., Gao, Y., Liu, X., Gu, C., Xue, R., Wang, Q., Chen, M., Zhai, J., Yue, W., Yu, H.* (2022). **Assessment of the relationships between genetic determinants of thyroid functions and bipolar disorder: A mendelian randomization study.**. *Journal of Affective Disorders*, *298*, 373–380. [DOI](https://doi.org/10.1016/j.jad.2021.10.101) [PMID](https://pubmed.ncbi.nlm.nih.gov/34728293/)
+
+- Zeng, L.#, <u>**Lv, H. G.#**</u>, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.* (2022). **Cigarette smoking, coffee consumption, alcohol intake, and clozapine metabolism: A Mendelian randomization study.** *Frontiers in Psychiatry*, *13*, 1002235. [DOI](https://doi.org/10.3389/fpsyt.2022.1002235) [PMID](https://pubmed.ncbi.nlm.nih.gov/36245885/)
+
+- Zeng, L.#, <u>**Lv, H. G.#**</u>, Li, J., Xue, R., Liu, X., Zhou, C., Yu, H.* (2022). **Causal effects of fatty acids on depression: Mendelian randomization study.** *Frontiers in Nutrition*, *9*, 1010476. [DOI](https://doi.org/10.3389/fnut.2022.1010476) [PMID](https://pubmed.ncbi.nlm.nih.gov/36562041/)
 
   <br>
 
@@ -33,12 +31,6 @@ Lastest Update: 19th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
   <br>
 
 ---
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
   <br>
 

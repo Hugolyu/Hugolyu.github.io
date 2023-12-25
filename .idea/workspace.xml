@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/honggang.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GuangLun2000.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GuangLun2000.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caihanlin.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +50,25 @@
       <option name="presentableId" value="Default" />
       <updated>1667046162046</updated>
       <workItem from="1667046175596" duration="621000" />
-      <workItem from="1703515802626" duration="301000" />
+      <workItem from="1703515802626" duration="660000" />
     </task>
+    <task id="LOCAL-00001" summary="all">
+      <option name="closed" value="true" />
+      <created>1703516117488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703516117488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all">
+      <option name="closed" value="true" />
+      <created>1703516455974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703516455974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
   </component>
 </project>
