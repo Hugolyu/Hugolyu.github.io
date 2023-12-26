@@ -18,14 +18,11 @@ title: Awards
 
 ## Professional Qualifications
 
-- Expecting  Aug 2024：Primary Clinical Psychologist <br>
-- Aug 2023：Outstanding Student Leaders of FZU
-- Oct 2022：Doctor' License<br>
-- June 2018：Primary *Gua sha*
+
+- Psychiatrist (2020 - 2023): Residency Training Program
+- Doctor’ License of China (2022): Qualified as a medical doctor in China.<br>
+- Junior Psychotherapist (expected August 2024)
 - *Nomination for China Telecom Scholarship*<br>
 
-## Services
-
-- Dec 2023 - Present：AAAI Student Membership
 
   <br>
