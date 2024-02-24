@@ -8,7 +8,7 @@ layout: page
 
 Here is **Honggang Lyu (Hugo, 吕洪港)**.
 
-I am a Ph.D. Candidate (Year 1) majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by [Prof. Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-2). My recent focus identifying the potential risk factors and objective biomarkers of psychiatric disorders from genetic perspective to optimize individualized medical interventions.
+I am a Ph.D. Student (Year 1) majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by [Prof. Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-2). My recent focus identifying the potential risk factors and objective biomarkers of psychiatric disorders from genetic perspective to optimize individualized medical interventions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *honggang.lv[at]whu[dot]edu[dot]cn*
 <br>
