@@ -8,7 +8,7 @@ layout: page
 
 Here is **Honggang Lyu (Hugo, 吕洪港)**.
 
-I am a Ph.D. Student (Year 1) majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by [Prof. Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-2). My recent focus identifying the potential risk factors and objective biomarkers of psychiatric disorders from genetic perspective to optimize individualized medical interventions.
+I am a Ph.D. Student (Year 2) majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by [Prof. Zhongchun Liu](https://www.researchgate.net/profile/Zhongchun-Liu-2). My recent focus identifying the potential risk factors and objective biomarkers of psychiatric disorders from genetic perspective to optimize individualized medical interventions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *honggang.lv[at]whu[dot]edu[dot]cn*
 <br>
@@ -30,7 +30,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Conducting more large-scale genome-wide association studies (GWAS) for early psychiatric clinical symptoms-level. Leveraging large-scale biobanks like UKBiobank, to further elucidate genetic architecture underlying diverse psychiatric clinical symptoms-level profiles.
 
-- Integrating multi-omics data (e.g., Transcriptomics, proteomics, single-cell and bulk RNA-seq) with cutting-edge statistical approaches (e.g., Mendelian Randomization, Isoform-level TWAS, PWAS, and Single-cell disease relevance score (scDRS)) to accelerate the identification of potential risk factors and objective biomarkers for early-stage psychiatric symptoms-level profiles.
+- Integrating multi-omics data (e.g., Transcriptomics, proteomics, single-cell and bulk RNA-seq) with cutting-edge statistical approaches (e.g., Mendelian Randomization, TWAS, PWAS, and gsMap) to accelerate the identification of potential risk factors and objective biomarkers for early-stage psychiatric symptoms-level profiles.
 
 - Validating these findings through downstream experimental work and independent clinical cohorts, with a particular focus on the Chinese Han population.
 <br>
