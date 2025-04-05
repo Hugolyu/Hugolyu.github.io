@@ -12,7 +12,7 @@ I am a Ph.D. Student (Year 2) majoring in **Psychiatry and Mental Health** at Re
 
 Currently, I am a visiting student at the **Department of Neurology and Neurosurgery**, McGill University, co-mentored by [**Dr. Lan Xiong**](https://www.mcgill.ca/neuro/lan-xiong-md-phd) and [**Dr. Sirui Zhou**](https://szhoulab.github.io/). 
 
-My research focuses on identifying potential risk factors and objective biomarkers of common psychiatric disorders from a genetic perspective, aiming to optimize individualized medical interventions.
+My research focuses on identifying potential risk factors and biomarkers of common psychiatric disorders from a genetic perspective.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *honggang.lv[at]whu[dot]edu[dot]cn*
 <br>
@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Conducting large-scale genome-wide association studies (GWAS) focused on early-stage psychiatric symptom dimensions in Asian populations. Leveraging population-scale biobanks (e.g., UK Biobank) to elucidate the genetic architecture underlying heterogeneous psychiatric phenotypes.
 
-- Integrating multi-omics data (e.g., transcriptomics, proteomics, single-cell and bulk RNA-seq) with advanced statistical genetics approaches such as:Mendelian Randomization (MR), Transcriptome-/Proteome-Wide Association Studies (TWAS/PWAS),Genomic Structural Equation Modeling (Genomic SEM) to accelerate the identification of potential risk factors and objective biomarkers for early-stage psychiatric symptoms-level profiles.
+- Integrating multi-omics data (e.g., transcriptomics, proteomics, single-cell and bulk RNA-seq) with statistical genetics approaches such as:Mendelian Randomization (MR), Transcriptome-/Proteome-Wide Association Studies (TWAS/PWAS),Genomic Structural Equation Modeling (Genomic SEM) - to identify potential risk factors and biomarkers associated with early-stage psychiatric symptom-level profiles.
 
 - Validating these findings through downstream experimental work and independent clinical cohorts, with a particular focus on the Chinese Han population.
 <br>
