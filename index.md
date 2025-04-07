@@ -14,7 +14,7 @@ Currently, I am a **visiting student** at the Department of Neurology and Neuros
 
 My research focuses on identifying potential risk factors and biomarkers of common psychiatric disorders from a genetic perspective.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *honggang.lv[at]whu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *honggang.lyu[at]mail[dot]mcgill[dot]ca*
 <br>
 
 ## Academic Background
