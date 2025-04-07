@@ -21,7 +21,7 @@ title: Awards
 
 - **Psychiatrist (2020 - 2023)**: Residency Training Program
 - **Doctor’ License of China (2022)**: Qualified as a medical doctor in China.<br>
-- **Junior Psychotherapist** 
+- **Junior Psychotherapist (2024)** 
 
 
   <br>
