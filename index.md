@@ -10,7 +10,7 @@ Here is **Honggang Lyu (Hugo, 吕洪港)**.
 
 I am a Ph.D. Student (Year 2) majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by [**Prof. Zhongchun Liu**](https://www.researchgate.net/profile/Zhongchun-Liu-2). 
 
-Currently, I am a visiting student at the **Department of Neurology and Neurosurgery**, McGill University, co-mentored by [**Dr. Lan Xiong**](https://www.mcgill.ca/neuro/lan-xiong-md-phd) and [**Dr. Sirui Zhou**](https://szhoulab.github.io/). 
+Currently, I am a visiting student at the **Department of Neurology and Neurosurgery**, McGill University, co-supervised by by [**Dr. Lan Xiong**](https://www.mcgill.ca/neuro/lan-xiong-md-phd) and [**Dr. Sirui Zhou**](https://szhoulab.github.io/). 
 
 My research focuses on identifying potential risk factors and biomarkers of common psychiatric disorders from a genetic perspective.
 
